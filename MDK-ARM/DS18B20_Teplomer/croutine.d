@@ -1,0 +1,14 @@
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ds18b20_teplomer\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ds18b20_teplomer\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ds18b20_teplomer\croutine.o: ../Inc/FreeRTOSConfig.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+ds18b20_teplomer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

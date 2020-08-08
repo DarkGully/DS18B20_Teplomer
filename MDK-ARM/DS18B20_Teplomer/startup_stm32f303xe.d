@@ -1,0 +1,1 @@
+ds18b20_teplomer\startup_stm32f303xe.o: startup_stm32f303xe.s
